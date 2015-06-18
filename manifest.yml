@@ -1,0 +1,4 @@
+applications:
+  - name: test-e2e-java
+    buildpack: java
+    path: target/demo-0.0.1-SNAPSHOT.jar
